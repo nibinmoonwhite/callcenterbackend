@@ -1,0 +1,9 @@
+id,name,phone,religion,cast,district,feedback,gender,age,status,remarks,followup,telecall,flag
+2,abna,5555555555,islam,mapila,kozhikode,aaaa,female,22,1.0,dddddddddd,2022-02-01,1,0
+3,aswathy,5555555555,islam,mapila,kozhikode,aaaa,female,22,,,,3,1
+4,anagha,5555555555,islam,mapila,kozhikode,aaaa,female,22,,,,3,0
+5,anju,5555555555,islam,mapila,kozhikode,aaaa,female,22,,,,3,0
+6,ammu,5555555555,islam,mapila,kozhikode,aaaa,female,22,,,,3,1
+7,ardhra,5555555555,islam,mapila,kozhikode,aaaa,female,22,,,,1,1
+8,ayana,5555555555,islam,mapila,kozhikode,aaaa,female,22,,,,1,1
+9,ameya,5555555555,islam,mapila,kozhikode,aaaa,female,22,,,,1,1
